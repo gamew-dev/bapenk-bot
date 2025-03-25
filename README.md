@@ -1,2 +1,5 @@
 # bapenk-bot
-Bot Discord Gamew
+
+Bot Discord Gamew. 
+
+## Ini hanya kode random! 
