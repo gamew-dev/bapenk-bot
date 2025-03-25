@@ -2,4 +2,4 @@
 
 Bot Discord Gamew. 
 
-## Ini hanya kode random! 
+### Ini hanya kode random! 
